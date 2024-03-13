@@ -23,7 +23,7 @@
 <a href="https://twitter.com/VectorT13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VectorT13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/VectorT13-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VectorT13" height="30" width="40" /></a>
 <a href="https://instagram.com/VectorT13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="VectorT13" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/VectorT13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VectorT13" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@VectorT13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="VectorT13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
